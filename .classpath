@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="/home/fname/swm/libs/android/guice-2.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="/home/fname/swm/libs/android/roboguice-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/home/fname/swm/libs/android/Google Analytics/EasyTracker.jar"/>
+	<classpathentry kind="lib" path="/home/fname/swm/libs/android/Google Analytics/libGoogleAnalytics.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
