@@ -16,7 +16,7 @@ I've encountered so far.
 
 All classes in this project have the same name as the RoboGuice ones, with 'Sherlock'
 inserted after the 'Robo', ie `Robo**Sherlock**ListFragment`. The package is also changed
-to `com.github.rtyley.android.sherlock.roboguice.**`.
+to `com.github.vmotvmot.android.sherlock.roboguice.**`.
 
 ## Used in...
 

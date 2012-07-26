@@ -5,7 +5,7 @@
         <artifactId>oss-parent</artifactId>
         <version>7</version>
     </parent>
-    <groupId>com.github.rtyley</groupId>
+    <groupId>com.github.vmotvmot</groupId>
     <artifactId>roboguice-sherlock</artifactId>
     <version>1.5-SNAPSHOT</version>
     <packaging>jar</packaging>
